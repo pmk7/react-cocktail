@@ -9,3 +9,6 @@
 "build": "CI= react-scripts build",
 
 ```
+
+Netlify
+https://react-cocktailapi.netlify.app
